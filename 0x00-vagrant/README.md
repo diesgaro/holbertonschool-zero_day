@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-*This is my holbertonschool-zero_day repository* 
+In this proyect create the dir 0x00vagrant and create te file 0-hello_ubuntu with the return of the uname command.  
